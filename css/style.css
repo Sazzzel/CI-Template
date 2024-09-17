@@ -19,7 +19,7 @@ nav li{
     line-height: 40px;
     height: 40px;
     display: inline-block;
-    margin: 2.5%;
+    margin-left: 2.5%;
 }
 
 nav a {
@@ -31,4 +31,31 @@ nav a {
 nav a:hover{
     background-color: white;
     color: #4a4a4f;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    width: 100%;
+    height: 100px;
+}
+
+.card{
+    float: left;
+    width: 20%;
+    margin-left: 10%;
+    max-width: 260px;
+    max-height: 150px;
+    margin-top: 15px;
+}
+
+.card a{
+    text-align: center;
+}
+
+
+h2{
+    text-align: center;
 }
